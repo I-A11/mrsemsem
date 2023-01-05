@@ -1,2 +1,4 @@
 This is a branch to test fetch PR
 I will try to push it.
+Now I am adding and will commit it.
+add line to git amend

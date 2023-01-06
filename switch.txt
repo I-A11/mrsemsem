@@ -1,2 +1,2 @@
 Try switch method.
-I am in help branch
+I am in help bugFix
